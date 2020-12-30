@@ -3,8 +3,8 @@ Encryption and Decryption Tool for Windows using Win32-OpenSSL
 
 # 1. Befor Installing
 A) Win32-OpenSSL
-Die Win32-OpenSSL Vsion könnte veraltet sein.
-Bitte abchecken und gegebenfalls folgenden download tätigen:
+Die Win32-OpenSSL Version könnte veraltet sein.
+Bitte abchecken und gegebenfalls folgenden Download tätigen:
 https://www.heise.de/download/product/win32-openssl-47316
 B) Encrypt.bat und Decrypt.bat
 Runterladen wo auch immer Fabian sie euch zur verfügung stellt. z.b. über Dropbox & GitHub
